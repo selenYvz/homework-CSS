@@ -1,0 +1,47 @@
+#alan{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#anabaslik{
+    text-align: center;
+    color: sienna;
+    font-size: 40px;
+}
+
+#baslik{
+    text-align: center;
+    color: teal;
+    font-size: 20px;
+}
+
+.baslik-style{
+    text-align: center;
+    font-size: 30px;
+    color: yellowgreen;
+}
+
+.aciklama{
+    text-align: center;
+    font-size: medium;
+}
+
+.kategori{
+    text-align: center;
+    color: salmon;
+    padding-left: 10px;
+    
+}
+
+#film-listesi{
+    text-align: inherit;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+#dizi-lilstesi{
+    text-align: inherit;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
